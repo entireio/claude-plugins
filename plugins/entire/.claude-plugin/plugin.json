@@ -1,0 +1,7 @@
+{
+  "name": "entire",
+  "description": "Tools for understanding code intent by tracing changes back to original session transcripts",
+  "author": {
+    "name": "Entire Inc"
+  }
+}
