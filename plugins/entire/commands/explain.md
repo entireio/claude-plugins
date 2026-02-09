@@ -12,5 +12,5 @@ Explain the intent behind source code by tracing it back to the original convers
 
 ## Process
 
-1. Use `git blame` or `git log` to identify the commit that introduced the code.
-2. Use `entire explain --commit COMMIT_SHA` to read the session transcripts.
+1. Use a Haiku agent to identify the commit that introduced the code.
+2. Use a Sonnet agent to read the session transcript via `entire explain --no-pager --commit COMMIT_SHA`.
