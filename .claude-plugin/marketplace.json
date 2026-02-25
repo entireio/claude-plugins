@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "entire-plugins",
+  "description": "Claude Code plugins by Entire",
+  "owner": {
+    "name": "Entire Inc"
+  },
+  "plugins": [
+    {
+      "name": "entire",
+      "description": "Tools for understanding code intent by tracing changes back to original session transcripts",
+      "version": "0.1.0",
+      "author": {
+        "name": "Entire Inc"
+      },
+      "source": "./plugins/entire",
+      "category": "development",
+      "homepage": "https://github.com/entireio/claude-plugins"
+    }
+  ]
+}
