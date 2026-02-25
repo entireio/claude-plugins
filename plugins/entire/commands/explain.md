@@ -13,7 +13,7 @@ Explain the intent behind source code by tracing it back to the original convers
 
 ## Process
 
-1. Verify the `entire` CLI is installed by running `entire --version`.
+1. Verify the `entire` CLI is installed by running `entire version`.
    - If the command is not found, stop and tell the user: "The Entire CLI is required but not installed. Install it from https://entire.io/docs/cli and try again."
 2. Use a Haiku agent to identify the commit that introduced the code via git blame or git log.
    - If the file is not tracked by git, stop and tell the user: "This file is not tracked by git, so I can't trace its history."
