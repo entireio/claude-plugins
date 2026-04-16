@@ -1,5 +1,12 @@
 # Entire Plugin for Claude Code
 
+> [!WARNING]
+> **This repository is deprecated.**
+>
+> Development has moved to [**entireio/skills**](https://github.com/entireio/skills). Please use that repository for the latest versions, installation instructions, and new features. This repo is no longer maintained and will not receive updates.
+
+---
+
 Tools for understanding code intent by tracing changes back to original session transcripts.
 
 ## Installation
